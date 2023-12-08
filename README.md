@@ -90,25 +90,24 @@ OpenAI sustains its mission of broad AGI benefits through grants, donations, and
 Fresh off the heels of the latest Republican Primary Debate, the idea came to me that I think OpenAI could serve as a political education tool, primarily educating a given populace about local and regional legislation. My theory as to why much of the eligible voting populace doesn't vote is due to ingorance and indifference. Providing succinct summaries on what legislation actually communicates would be very beneficial in allowing people to understand what's going on and perhaps feel less overwhelmed. At the same time, this could serve to empower many to perform their civic duty of voting. This falls in line with OpenAI's universal betterment of humanity and society as a whole so fits their mission statement to some degree. A legislative education model/product would utilize the same NLP models currently in place, they would just be fine-tuned to legislation, that passed amongst the halls of Congress for instance, and tailored to explaining this legislation to your average citizen. Utilizing the complex language processing models that have already been developed makes sense to dissect and understand the overcomplicated jargon found in the documentation which codifiies our laws. Presenting this information simply in an app seems feasible.
 ___________
 ### Sources
-Palihapitiya, C. (2023, November 20). Quick essay: A short history of openai. Quick Essay: A Short History of OpenAI. https://chamath.substack.com/p/a-short-history-of-openai 
-
-OpenAI. CB Insights. (n.d.). https://www.cbinsights.com/company/openai/financials
+Ansari, T. (2023, September 14). Why OpenAI Needs to be Singled Out in the Troubled Tech Valley&nbsp;. Analytics India Magazine. https://analyticsindiamag.com/why-openai-needs-to-be-singled-out-in-the-troubled-tech-valley/#:~:text=Keeping%20it%20so%20hush%2Dhush,a%20legal%2C%20yet%20unfair%20advantage. 
 
 Anthropic. CB Insights. (n.d.). https://www.cbinsights.com/company/anthropic/financials
-
-Mindverse. CB Insights. (n.d.). https://www.cbinsights.com/company/mindverse/financials
-
-TruEra. CB Insights. (n.d.). https://www.cbinsights.com/company/TruEra/financials
-
-OpenAI. (n.d.). https://openai.com/  
-
-OpenAI © 2015 – 2023. (n.d.). About. https://openai.com/about 
-
-O’Sullivan, I. (2023, June 21). Who Owns ChatGPT and Its Creator, OpenAI?. Tech.co. https://tech.co/news/who-owns-chatgpt-and-openai#:~:text=Microsoft%20doesn’t%20own%20ChatGPT,be%20the%20company’s%20largest%20investor. 
-
-Ansari, T. (2023, September 14). Why OpenAI Needs to be Singled Out in the Troubled Tech Valley&nbsp;. Analytics India Magazine. https://analyticsindiamag.com/why-openai-needs-to-be-singled-out-in-the-troubled-tech-valley/#:~:text=Keeping%20it%20so%20hush%2Dhush,a%20legal%2C%20yet%20unfair%20advantage. 
 
 Bass, D. (2023, November 20). Satya Nadella Says Sam Altman Will Lead Microsoft’s New In-House AI Team. Time. https://time.com/6337503/sam-altman-joins-microsoft-ai/ 
 
 Larsen, R. (2023, November 29). Exploring openai’s business and revenue model: A comprehensive explanation. Untaylored. https://www.untaylored.com/post/exploring-openai-s-business-and-revenue-model-a-comprehensive-explanation#:~:text=OpenAI’s%20unique%20business%20and%20revenue,ethical%20and%20responsible%20AI%20development. 
 
+Mindverse. CB Insights. (n.d.). https://www.cbinsights.com/company/mindverse/financials
+
+OpenAI. (n.d.). https://openai.com/  
+
+OpenAI © 2015 – 2023. (n.d.). About. https://openai.com/about 
+
+OpenAI. CB Insights. (n.d.). https://www.cbinsights.com/company/openai/financials
+
+O’Sullivan, I. (2023, June 21). Who Owns ChatGPT and Its Creator, OpenAI?. Tech.co. https://tech.co/news/who-owns-chatgpt-and-openai#:~:text=Microsoft%20doesn’t%20own%20ChatGPT,be%20the%20company’s%20largest%20investor. 
+
+Palihapitiya, C. (2023, November 20). Quick essay: A short history of openai. Quick Essay: A Short History of OpenAI. https://chamath.substack.com/p/a-short-history-of-openai
+
+TruEra. CB Insights. (n.d.). https://www.cbinsights.com/company/TruEra/financials
