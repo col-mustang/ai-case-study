@@ -1,4 +1,4 @@
-# [<img src="https://static.vecteezy.com/system/resources/previews/022/227/365/non_2x/openai-chatgpt-logo-icon-free-png.png" alt="image" width="1.5%" height="1.75%">](https://openai.com/)penAI Case Study
+# [<img src="https://static.vecteezy.com/system/resources/previews/022/227/365/non_2x/openai-chatgpt-logo-icon-free-png.png" alt="image" width="5%" height="5%">](https://openai.com/)penAI Case Study
 
 ### _Then and Now_
   
