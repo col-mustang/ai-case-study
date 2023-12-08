@@ -42,7 +42,10 @@ ______________
   
   __Microsoft__ is the largest investor in OpenAI, having amassed an investment of $13 billion over the last four years (a roughly 49% stake). (O'Sullivan, 2023)(Bass, 2023) It's been subject to much debate as to whether their data collection practices are ethical and/or lawful. Mozilla even launched a [campaign](https://foundation.mozilla.org/en/campaigns/microsoft-ai/) claiming nine privacy experts were unable to understand how or if Microsoft captures and utilizes personal data unethically in training AI. 
   
-  The release of GPT-4 was not as open as some would have preferred. The  originally realeased [report](https://openai.com/research/gpt-4) failed to communicate "details about the architecture (including model size), hardware, the magnitude of its dataset, or the training method" dubbing it, "the most secretive release so far." (Ansari, 2023)
+  The release of GPT-4 was not as open as some would have preferred. The  originally realeased [report](https://openai.com/research/gpt-4) failed to communicate "details about the architecture (including model size), hardware, the magnitude of its dataset, or the training method" dubbing it, "the most secretive release so far." (Ansari, 2023) A professor of Linguistics at the University of Washington tweeted that:
+  > Keeping it so hush-hush has made it unfair to people who are now finding it difficult to know
+  > whether their work has been scraped. Moreoever, it has become an impossible task to prove their
+  > intellectual property and copyright in court - giving OpenAI a legal, yet unfair advantage.
 _________
 ### _GPTs & DALL-Es & Whispers, API!_
   OpenAI has been known for its work on various AI technologies, including natural language processing and generation. Notably, they have developed models such as the [GPT series](https://openai.com/chatgpt) (Generative Pre-trained Transformer), including models like GPT-4. These models are based on transformer architecture and have been at the forefront of large-scale language models, demonstrating capabilities in tasks such as language understanding, translation, and text generation.
